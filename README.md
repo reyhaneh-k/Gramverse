@@ -1,15 +1,9 @@
-# Gramverse
+<p align="center">
+  <img src="Designer (3) icon.png" alt="App Logo" style="display: inline-block; margin-right: 20px; width: 200px;" />
+  <img src="rahnema-icon.png" alt="Company Logo" style="display: inline-block; width: 200px;" />
+</p>
 
-<table style="border: none; border-collapse: collapse;" align='center'>
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="Designer (3) icon.png" alt="App Logo" style="display: inline-block; margin-right: 20px;" width='200px' />
-    </td>
-    <td align="center" style="border: none;">
-      <img src="rahnema-icon.png" alt="Company Logo" style="display: inline-block;"  width='200px' />
-    </td>
-  </tr>
-</table>
+# Gramverse
 
 # 🚀 Persian Social Media Web App
 
@@ -52,6 +46,7 @@ Gramverse is a unique Persian Social Media Web App designed specifically for Per
   - Tailwind CSS
 - Backend: Node.js
 - Database: MongoDB
+- [Any other significant technologies or libraries used]
 
 ## 🚀 Getting Started
 
@@ -69,40 +64,46 @@ Gramverse is a unique Persian Social Media Web App designed specifically for Per
 ## 🖥 Usage
 [Provide instructions on how to use your app. Include screenshots if possible.]
 
-Project Link: [https://github.com/reyhaneh_k/gramverse](https://github.com/reyhaneh-k/Gramverse)
+## 📝 License
+Distributed under the [Your License] License. See `LICENSE` for more information.
+
+## 📞 Contact
+Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+
+Project Link: [https://github.com/your_username/gramverse](https://github.com/your_username/gramverse)
 
 ## 👥 Collaborators
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center" style="border: none;border-radius: 50%;">
+    <td align="center" style="border: none;">
       <a href="https://github.com/reyhaneh-k" style="text-decoration: none; color: black;">
         <img src="https://github.com/reyhaneh-k.png" width="100px;" alt="Reyhaneh Khoshghadam" style="border-radius: 50%;"/><br />
-        <sub style="text-decoration: none;"><b>Reyhaneh Khoshghadam</b></sub>
+        <sub><b>Reyhaneh Khoshghadam</b></sub>
       </a>
     </td>
-    <td align="center" style="border: none;border-radius: 50%;">
+    <td align="center" style="border: none;">
       <a href="https://github.com/ghazalmoghadam" style="text-decoration: none; color: black;">
         <img src="https://github.com/ghazalmoghadam.png" width="100px;" alt="Ghazaleh Moghaddam" style="border-radius: 50%;"/><br />
-        <sub style="text-decoration: none;"><b>Ghazaleh Moghaddam</b></sub>
+        <sub><b>Ghazaleh Moghaddam</b></sub>
       </a>
     </td>
-    <td align="center" style="border: none;border-radius: 50%;">
+    <td align="center" style="border: none;">
       <a href="https://github.com/hamidakhavan21" style="text-decoration: none; color: black;">
         <img src="https://github.com/hamidakhavan21.png" width="100px;" alt="Hamid Akhavan" style="border-radius: 50%;"/><br />
-        <sub style="text-decoration: none;"><b>Hamid Akhavan</b></sub>
+        <sub><b>Hamid Akhavan</b></sub>
       </a>
     </td>
-    <td align="center" style="border: none;border-radius: 50%;">
+    <td align="center" style="border: none;">
       <a href="https://github.com/AlirezaIzadi6" style="text-decoration: none; color: black;">
         <img src="https://github.com/AlirezaIzadi6.png" width="100px;" alt="Alireza Izadi" style="border-radius: 50%;"/><br />
-        <sub style="text-decoration: none;"><b>Alireza Izadi</b></sub>
+        <sub><b>Alireza Izadi</b></sub>
       </a>
     </td>
-    <td align="center" style="border: none;border-radius: 50%;">
+    <td align="center" style="border: none;">
       <a href="https://github.com/alimhp021" style="text-decoration: none; color: black;">
         <img src="https://github.com/alimhp021.png" width="100px;" alt="Ali Mahdipour" style="border-radius: 50%;"/><br />
-        <sub style="text-decoration: none;"><b>Ali Mahdipour</b></sub>
+        <sub><b>Ali Mahdipour</b></sub>
       </a>
     </td>
   </tr>
