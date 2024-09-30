@@ -3,7 +3,7 @@
   <img src="rahnema-icon.png" alt="Company Logo" style="display: inline-block; width: 200px;" />
 </p>
 
-![Repo Size](https://img.shields.io/github/repo-size/reyhaneh-k/Gramverse)
+![Repo Size](https://img.shields.io/github/repo-size/reyhaneh-k/Gramverse) ![GitHub Issues](https://img.shields.io/github/issues/reyhaneh-k/Gramverse) ![GitHub Forks](https://img.shields.io/github/forks/reyhaneh-k/Gramverse?style=social) ![GitHub Stars](https://img.shields.io/github/stars/reyhaneh-k/Gramverse?style=social)
 
 # 🚀 Gramverse Social Media Web Application
 
@@ -12,9 +12,8 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+  - [Installation](#installation)
+  - [Usage](#usage)
 - [Contact](#contact)
 - [Collaborators](#collaborators)
 
