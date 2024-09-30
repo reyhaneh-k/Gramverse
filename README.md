@@ -1,7 +1,15 @@
 # Gramverse
 
-<img src="Designer (3) icon.png" alt="App Logo" style="display: inline-block; margin-right: 20px;" width='200px' />
-<img src="rahnema-icon.png" alt="Company Logo" style="display: inline-block;"  width='200px' />
+<table>
+  <tr>
+    <td align="center">
+      <img src="Designer (3) icon.png" alt="App Logo" style="display: inline-block; margin-right: 20px;" width='200px' />
+    </td>
+    <td align="center">
+      <img src="rahnema-icon.png" alt="Company Logo" style="display: inline-block;"  width='200px' />
+    </td>
+  </tr>
+</table>
 
 # 🚀 Persian Social Media Web App
 
