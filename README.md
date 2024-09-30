@@ -1,6 +1,6 @@
 # Gramverse
 
-<table>
+<table style="border: none; border-collapse: collapse;" align='center'>
   <tr>
     <td align="center">
       <img src="Designer (3) icon.png" alt="App Logo" style="display: inline-block; margin-right: 20px;" width='200px' />
@@ -73,36 +73,36 @@ Project Link: [https://github.com/reyhaneh_k/gramverse](https://github.com/reyha
 
 ## 👥 Collaborators
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <td align="center">
       <a href="https://github.com/reyhaneh-k">
-        <img src="https://github.com/reyhaneh-k.png" width="100px;" alt="Reyhaneh Khoshghadam"/><br />
-        <sub><b>Reyhaneh Khoshghadam</b></sub>
+        <img src="https://github.com/reyhaneh-k.png" width="100px;" alt="Reyhaneh Khoshghadam" style="border-radius: 50%;"/><br />
+        <sub style="text-decoration: none;"><b>Reyhaneh Khoshghadam</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/ghazalmoghadam">
-        <img src="https://github.com/ghazalmoghadam.png" width="100px;" alt="Ghazaleh Moghaddam"/><br />
-        <sub><b>Ghazaleh Moghaddam</b></sub>
+        <img src="https://github.com/ghazalmoghadam.png" width="100px;" alt="Ghazaleh Moghaddam" style="border-radius: 50%;"/><br />
+        <sub style="text-decoration: none;"><b>Ghazaleh Moghaddam</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/hamidakhavan21">
-        <img src="https://github.com/hamidakhavan21.png" width="100px;" alt="Hamid Akhavan"/><br />
-        <sub><b>Hamid Akhavan</b></sub>
+        <img src="https://github.com/hamidakhavan21.png" width="100px;" alt="Hamid Akhavan" style="border-radius: 50%;"/><br />
+        <sub style="text-decoration: none;"><b>Hamid Akhavan</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/AlirezaIzadi6">
-        <img src="https://github.com/AlirezaIzadi6.png" width="100px;" alt="Alireza Izadi"/><br />
-        <sub><b>Alireza Izadi</b></sub>
+        <img src="https://github.com/AlirezaIzadi6.png" width="100px;" alt="Alireza Izadi" style="border-radius: 50%;"/><br />
+        <sub style="text-decoration: none;"><b>Alireza Izadi</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/alimhp021">
-        <img src="https://github.com/alimhp021.png" width="100px;" alt="Ali Mahdipour"/><br />
-        <sub><b>Ali Mahdipour</b></sub>
+        <img src="https://github.com/alimhp021.png" width="100px;" alt="Ali Mahdipour" style="border-radius: 50%;"/><br />
+        <sub style="text-decoration: none;"><b>Ali Mahdipour</b></sub>
       </a>
     </td>
   </tr>
