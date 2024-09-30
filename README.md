@@ -51,7 +51,7 @@ Gramverse is a unique Persian Social Media Web App designed specifically for Per
 ### Installation
 1. Clone the repo
    ```
-   git clone https://github.com/your_username/gramverse.git
+   git clone https://github.com/reyhaneh_k/gramverse.git
    ```
 2. Install NPM packages
    ```
