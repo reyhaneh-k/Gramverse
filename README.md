@@ -2,6 +2,7 @@
   <img src="Designer (3) icon.png" alt="App Logo" style="display: inline-block; margin-right: 20px; width: 200px;" />
   <img src="rahnema-icon.png" alt="Company Logo" style="display: inline-block; width: 200px;" />
 </p>
+![GitHub Profile Picture](https://img.shields.io/badge/GitHub-reyhaneh--k-blue?logo=github&logoWidth=40&style=for-the-badge&labelColor=black&link=https://github.com/reyhaneh-k)
 
 # 🚀 Gramverse Social Media Web Application
 
