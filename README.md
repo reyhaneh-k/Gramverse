@@ -102,8 +102,3 @@ Project Link: [https://github.com/your_username/gramverse](https://github.com/yo
     </a>
   </div>
 </div>
-        <sub><b>Ali Mahdipour</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
