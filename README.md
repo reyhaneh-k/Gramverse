@@ -1,7 +1,7 @@
 # Gramverse
 
-<img src="/api/placeholder/400/200" alt="App Logo" style="display: inline-block; margin-right: 20px;" />
-<img src="/api/placeholder/400/200" alt="Company Logo" style="display: inline-block;" />
+<img src="Designer (3) icon.png" alt="App Logo" style="display: inline-block; margin-right: 20px;" />
+<img src="/rahnema-icon.png" alt="Company Logo" style="display: inline-block;" />
 
 # 🚀 Persian Social Media Web App
 
@@ -44,7 +44,6 @@ Gramverse is a unique Persian Social Media Web App designed specifically for Per
   - Tailwind CSS
 - Backend: Node.js
 - Database: MongoDB
-- [Any other significant technologies or libraries used]
 
 ## 🚀 Getting Started
 
@@ -62,13 +61,7 @@ Gramverse is a unique Persian Social Media Web App designed specifically for Per
 ## 🖥 Usage
 [Provide instructions on how to use your app. Include screenshots if possible.]
 
-## 📝 License
-Distributed under the [Your License] License. See `LICENSE` for more information.
-
-## 📞 Contact
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/your_username/gramverse](https://github.com/your_username/gramverse)
+Project Link: [https://github.com/reyhaneh_k/gramverse](https://github.com/reyhaneh-k/Gramverse)
 
 ## 👥 Collaborators
 
@@ -88,7 +81,7 @@ Project Link: [https://github.com/your_username/gramverse](https://github.com/yo
     </td>
     <td align="center">
       <a href="https://github.com/hamidakhavan21">
-        <img src="https://github.com/hamidakhavan21" width="100px;" alt="Hamid Akhavan"/><br />
+        <img src="https://github.com/hamidakhavan21.png" width="100px;" alt="Hamid Akhavan"/><br />
         <sub><b>Hamid Akhavan</b></sub>
       </a>
     </td>
