@@ -3,6 +3,7 @@
   <img src="rahnema-icon.png" alt="Company Logo" style="display: inline-block; width: 200px;" />
 </p>
 
+![Repo Size](https://img.shields.io/github/repo-size/reyhaneh-k/Gramverse)
 
 # 🚀 Gramverse Social Media Web Application
 
