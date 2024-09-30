@@ -69,29 +69,19 @@ Project Link: [https://github.com/reyhaneh-k/gramverse](https://github.com/reyha
 ## 👥 Collaborators
 
 <p>
-  <span style="text-align: center; margin: 10px;border-radius: 50%;">
     <a href="https://github.com/reyhaneh-k" style="text-decoration: none; color: black;border-radius: 50%;">
       <img src="https://github.com/reyhaneh-k.png" width="100px;" alt="Reyhaneh Khoshghadam" style="border-radius: 50%;"/>
     </a>
-  </span>
-  <span style="text-align: center; margin: 10px;border-radius: 50%;">
     <a href="https://github.com/ghazalmoghadam" style="text-decoration: none; color: black;border-radius: 50%;">
       <img src="https://github.com/ghazalmoghadam.png" width="100px;" alt="Ghazaleh Moghaddam" style="border-radius: 50%;"/>
     </a>
-  </span>
-  <span style="text-align: center; margin: 10px;border-radius: 50%;">
     <a href="https://github.com/hamidakhavan21" style="text-decoration: none; color: black;border-radius: 50%;">
       <img src="https://github.com/hamidakhavan21.png" width="100px;" alt="Hamid Akhavan" style="border-radius: 50%;"/>
     </a>
-  </span>
-  <span style="text-align: center; margin: 10px;border-radius: 50%;">
     <a href="https://github.com/AlirezaIzadi6" style="text-decoration: none; color: black;border-radius: 50%;">
       <img src="https://github.com/AlirezaIzadi6.png" width="100px;" alt="Alireza Izadi" style="border-radius: 50%;"/>
     </a>
-  </span>
-  <span style="text-align: center; margin: 10px;border-radius: 50%;">
     <a href="https://github.com/alimhp021" style="text-decoration: none; color: black;border-radius: 50%;">
       <img src="https://github.com/alimhp021.png" width="100px;" alt="Ali Mahdipour" style="border-radius: 50%;"/>
     </a>
-  </span>
 </p>
