@@ -69,10 +69,7 @@ Project Link: [https://github.com/reyhaneh-k/gramverse](https://github.com/reyha
 
 ## 👥 Collaborators
 
-<p>
-  <a href="https://github.com/reyhaneh-k/gramverse/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=reyhaneh-k/gramverse" />
-</a>
+<p align="center">
     <a href="https://github.com/reyhaneh-k" style="text-decoration: none; color: black;">
       <img src="https://github.com/reyhaneh-k.png" width="100px;" alt="Reyhaneh Khoshghadam"/>
     </a>
