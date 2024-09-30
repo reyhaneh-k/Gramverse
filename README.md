@@ -68,7 +68,7 @@ Project Link: [https://github.com/your_username/gramverse](https://github.com/yo
 
 ## 👥 Collaborators
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<div style="display: inline; justify-content: space-around; flex-wrap: wrap;">
   <div style="text-align: center; margin: 10px;display:inline;">
     <a href="https://github.com/reyhaneh-k" style="text-decoration: none; color: black;">
       <img src="https://github.com/reyhaneh-k.png" width="100px;" alt="Reyhaneh Khoshghadam" style="border-radius: 50%;"/><br />
