@@ -89,7 +89,7 @@ Project Link: [https://github.com/your_username/gramverse](https://github.com/yo
       <img src="https://github.com/AlirezaIzadi6.png" width="100px;" alt="Alireza Izadi" style="border-radius: 50%;"/><br />
     </a>
   </span>
-  <div style="text-align: center; margin: 10px;">
+  <span style="text-align: center; margin: 10px;">
     <a href="https://github.com/alimhp021" style="text-decoration: none; color: black;">
       <img src="https://github.com/alimhp021.png" width="100px;" alt="Ali Mahdipour" style="border-radius: 50%;"/><br />
     </a>
