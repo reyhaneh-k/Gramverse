@@ -68,35 +68,35 @@ Project Link: [https://github.com/your_username/gramverse](https://github.com/yo
 
 ## 👥 Collaborators
 
-<div style="display: inline; justify-content: space-around; flex-wrap: wrap;">
-  <div style="text-align: center; margin: 10px;display:inline;">
+<p style="display: inline; justify-content: space-around; flex-wrap: wrap;">
+  <span style="text-align: center; margin: 10px;display:inline;">
     <a href="https://github.com/reyhaneh-k" style="text-decoration: none; color: black;">
       <img src="https://github.com/reyhaneh-k.png" width="100px;" alt="Reyhaneh Khoshghadam" style="border-radius: 50%;"/><br />
       <sub><b>Reyhaneh Khoshghadam</b></sub>
     </a>
-  </div>
-  <div style="text-align: center; margin: 10px;display:inline;">
+  </span>
+  <span style="text-align: center; margin: 10px;display:inline;">
     <a href="https://github.com/ghazalmoghadam" style="text-decoration: none; color: black;">
       <img src="https://github.com/ghazalmoghadam.png" width="100px;" alt="Ghazaleh Moghaddam" style="border-radius: 50%;"/><br />
       <sub><b>Ghazaleh Moghaddam</b></sub>
     </a>
-  </div>
-  <div style="text-align: center; margin: 10px;display:inline;">
+  </span>
+  <span style="text-align: center; margin: 10px;display:inline;">
     <a href="https://github.com/hamidakhavan21" style="text-decoration: none; color: black;">
       <img src="https://github.com/hamidakhavan21.png" width="100px;" alt="Hamid Akhavan" style="border-radius: 50%;"/><br />
       <sub><b>Hamid Akhavan</b></sub>
     </a>
-  </div>
-  <div style="text-align: center; margin: 10px;display:inline;">
+  </span>
+  <span style="text-align: center; margin: 10px;display:inline;">
     <a href="https://github.com/AlirezaIzadi6" style="text-decoration: none; color: black;">
       <img src="https://github.com/AlirezaIzadi6.png" width="100px;" alt="Alireza Izadi" style="border-radius: 50%;"/><br />
       <sub><b>Alireza Izadi</b></sub>
     </a>
-  </div>
+  </span>
   <div style="text-align: center; margin: 10px;display:inline;">
     <a href="https://github.com/alimhp021" style="text-decoration: none; color: black;">
       <img src="https://github.com/alimhp021.png" width="100px;" alt="Ali Mahdipour" style="border-radius: 50%;"/><br />
       <sub><b>Ali Mahdipour</b></sub>
     </a>
-  </div>
-</div>
+  </span>
+</p>
