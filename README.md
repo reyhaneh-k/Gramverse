@@ -86,8 +86,3 @@ Project Link: [https://github.com/reyhaneh-k/gramverse](https://github.com/reyha
       <img src="https://github.com/alimhp021.png" width="100px;" alt="Ali Mahdipour"/>
     </a>
 </p>
-## Collaborators
-
-- [@reyhaneh-k](https://github.com/reyhaneh-k) - Lead Developer
-- [@octocat](https://github.com/octocat) - Backend Developer
-
